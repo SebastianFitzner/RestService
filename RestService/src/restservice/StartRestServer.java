@@ -20,6 +20,6 @@ public class StartRestServer {
         server.start();
         JOptionPane.showMessageDialog(null, "Ende");
         server.stop(0);
-        //iwashereNOT
+        //iwashereNOTDOCH
     }
 }
