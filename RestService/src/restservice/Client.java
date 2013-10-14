@@ -10,4 +10,12 @@ package restservice;
  */
 public class Client {
     
+    /**
+     * BALBLA
+     * @return 
+     */
+    public int getInt() {
+        return 4;
+    }
+    
 }
