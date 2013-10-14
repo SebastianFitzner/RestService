@@ -1,6 +1,10 @@
 /*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
+ * Klasse: 
+ * Zweck: 
+ * Bemerkungen:
+ * 
+ * Historie:
+ * 2013-10-06 SFI Erstellung
  */
 package restservice;
 
@@ -9,13 +13,13 @@ package restservice;
  * @author Sebastian
  */
 public class Client {
-    
+
     /**
      * BALBLA
-     * @return 
+     *
+     * @return
      */
     public int getInt() {
         return 5;
     }
-    
 }
